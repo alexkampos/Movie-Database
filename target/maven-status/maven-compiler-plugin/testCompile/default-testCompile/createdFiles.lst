@@ -1,0 +1,9 @@
+com\alexkampos\springcourse\servicetests\LanguageServiceTests.class
+com\alexkampos\springcourse\servicetests\GenreServiceTests.class
+com\alexkampos\springcourse\restcontrollertests\MovieRestControllerTests.class
+com\alexkampos\springcourse\restcontrollertests\GenreRestControllerTests.class
+com\alexkampos\springcourse\restcontrollertests\ActorRestControllerTests.class
+com\alexkampos\springcourse\restcontrollertests\LanguageRestControllerTests.class
+com\alexkampos\springcourse\servicetests\MovieServiceTests.class
+com\alexkampos\springcourse\MoviesApplicationTests.class
+com\alexkampos\springcourse\servicetests\ActorServiceTests.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alexkampos.springcourse.restcontrollertests.ActorRestControllerTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.558 s - in com.alexkampos.springcourse.restcontrollertests.ActorRestControllerTests
