@@ -18,7 +18,7 @@ not only making safer the transactions with user, but also making the classes of
 \
 &emsp;&#8226;&emsp;Unit Tests\
 \
-&emsp;&#8226;&emsp;Integration Tests using h2 in-memory database\
+&emsp;&#8226;&emsp;Integration Tests using h2 in-memory database
 
 ## Features
 
