@@ -54,7 +54,7 @@ Opening the project with Netbeans IDE you will have to change username and passw
 
 <img src="screenshots/username-and-password.PNG"/>
 
-where *< your username >* and *< your password >* should be changed accordingly.
+where ***< your username >*** and ***< your password >*** should be changed accordingly.
 
 You are ready to run the application.
 
